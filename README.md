@@ -1,2 +1,7 @@
-# express-rest-api
-Simple Node/Express JS CRUD API that creates users, reads them together (as well as singly), updates and also deletes them from an array.
+Run "npm i" to install dependencies.
+
+Run "npm run dev" to start Express server.
+
+Access routes with Postman.
+
+Happy Coding!!!
